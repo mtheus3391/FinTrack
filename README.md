@@ -1,6 +1,6 @@
 ## Projeto: FinTrack - Gerenciador Financeiro com IA 
 
-1. Esse é o segundo projeto do zero desenvolvido por mim.
+1 Esse é o segundo projeto do zero desenvolvido por mim.
 
 1.1 O objetivo principal desse projeto é desenvolver minhas habilidades técnicas envolvendo com o decorrer das aulas na faculdade o uso de html, css, javaScript, python, entre outro.
 
